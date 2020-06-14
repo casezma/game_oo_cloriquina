@@ -1,0 +1,16 @@
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe.config
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.pdb
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.csprojAssemblyReference.cache
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.Form1.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.Properties.Resources.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.csproj.GenerateResource.cache
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.csproj.CoreCompileInputs.cache
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.exe
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.pdb
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.Form2.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe.manifest
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.application
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.exe.manifest
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.application
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.Form3.resources

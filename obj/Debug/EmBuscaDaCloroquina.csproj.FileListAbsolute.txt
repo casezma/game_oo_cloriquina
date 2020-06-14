@@ -1,0 +1,15 @@
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe.config
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe.manifest
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.application
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.exe
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\bin\Debug\BrasileiroAtacado.pdb
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.Properties.Resources.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\EmBuscaDaCloroquina.csproj.GenerateResource.cache
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\EmBuscaDaCloroquina.csproj.CoreCompileInputs.cache
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.exe.manifest
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.application
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.exe
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.pdb
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.TelaJogo.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.TelaInicio.resources
+C:\Users\casez\source\repos\BrasilSobreAtaque\BrasileiroAtacado\obj\Debug\BrasileiroAtacado.TelaGameOver.resources
